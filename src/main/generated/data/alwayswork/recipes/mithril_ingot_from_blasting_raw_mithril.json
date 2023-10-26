@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 2.5,
+  "group": "mithril",
+  "ingredient": {
+    "item": "alwayswork:raw_mithril"
+  },
+  "result": "alwayswork:mithril_ingot"
+}

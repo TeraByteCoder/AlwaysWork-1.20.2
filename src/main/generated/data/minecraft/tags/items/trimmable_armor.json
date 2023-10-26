@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "alwayswork:mithril_helmet",
+    "alwayswork:mithril_chestplate",
+    "alwayswork:mithril_leggings",
+    "alwayswork:mithril_boots",
+    "alwayswork:infernite_helmet",
+    "alwayswork:infernite_chestplate",
+    "alwayswork:infernite_leggings",
+    "alwayswork:infernite_boots",
+    "alwayswork:vibranium_helmet",
+    "alwayswork:vibranium_chestplate",
+    "alwayswork:vibranium_leggings",
+    "alwayswork:vibranium_boots"
+  ]
+}

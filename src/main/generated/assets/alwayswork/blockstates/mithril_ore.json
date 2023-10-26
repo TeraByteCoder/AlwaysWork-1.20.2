@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "alwayswork:block/mithril_ore"
+    }
+  }
+}

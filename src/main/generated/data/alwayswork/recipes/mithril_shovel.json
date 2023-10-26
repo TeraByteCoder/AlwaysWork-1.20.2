@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "alwayswork:mithril_ingot"
+    },
+    "G": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " B ",
+    " G ",
+    " G "
+  ],
+  "result": {
+    "item": "alwayswork:mithril_shovel"
+  },
+  "show_notification": true
+}

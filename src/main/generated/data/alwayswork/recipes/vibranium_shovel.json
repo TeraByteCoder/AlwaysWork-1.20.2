@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "alwayswork:vibranium_ingot"
+    },
+    "G": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " B ",
+    " G ",
+    " G "
+  ],
+  "result": {
+    "item": "alwayswork:vibranium_shovel"
+  },
+  "show_notification": true
+}

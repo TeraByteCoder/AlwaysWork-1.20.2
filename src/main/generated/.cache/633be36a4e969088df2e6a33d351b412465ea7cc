@@ -1,0 +1,7 @@
+// 1.20.2	2023-10-26T17:12:51.1750887	alwayswork/Tags for minecraft:block
+131ea3aaf4dddf8acfefe153390bf4003c69527f data\fabric\tags\blocks\needs_tool_level_5.json
+535074efb84dcc8fde0408fe36d3958211672121 data\fabric\tags\blocks\needs_tool_level_4.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_diamond_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_iron_tool.json
+e09c1f6cfaa7f595d23b36e05cbd08c924d0976a data\minecraft\tags\blocks\mineable\pickaxe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json

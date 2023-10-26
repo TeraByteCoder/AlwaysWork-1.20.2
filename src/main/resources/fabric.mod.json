@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "alwayswork",
+	"version": "${version}",
+	"name": "alwayswork",
+	"description": "Always have work to do even Lategame",
+	"authors": [
+		"Lukas"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/alwayswork/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"at.lukas.alwayswork.AlwaysWork"
+		],
+		"client": [
+			"at.lukas.alwayswork.AlwaysWorkClient"
+		],
+		"fabric-datagen": [
+			"at.lukas.alwayswork.AlwaysWorkDataGenerator"
+		]
+	},
+	"mixins": [
+		"alwayswork.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

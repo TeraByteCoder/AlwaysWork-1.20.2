@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 600,
+  "experience": 3.6,
+  "group": "vibranium",
+  "ingredient": {
+    "item": "alwayswork:raw_vibranium"
+  },
+  "result": "alwayswork:vibranium_ingot"
+}

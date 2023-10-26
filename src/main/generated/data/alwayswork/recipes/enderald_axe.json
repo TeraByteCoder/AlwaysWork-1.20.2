@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "alwayswork:enderald"
+    },
+    "G": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "BB ",
+    "BG ",
+    " G "
+  ],
+  "result": {
+    "item": "alwayswork:enderald_axe"
+  },
+  "show_notification": true
+}

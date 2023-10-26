@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 2.5,
+  "group": "infernite",
+  "ingredient": {
+    "item": "alwayswork:infernite_ore"
+  },
+  "result": "alwayswork:infernite_ingot"
+}

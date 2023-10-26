@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "alwayswork:infernite_ingot"
+    },
+    "G": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "BB ",
+    " G ",
+    " G "
+  ],
+  "result": {
+    "item": "alwayswork:infernite_hoe"
+  },
+  "show_notification": true
+}

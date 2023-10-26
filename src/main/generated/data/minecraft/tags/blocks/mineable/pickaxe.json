@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "alwayswork:mithril_ore",
+    "alwayswork:infernite_ore",
+    "alwayswork:enderald_ore",
+    "alwayswork:vibranium_ore"
+  ]
+}

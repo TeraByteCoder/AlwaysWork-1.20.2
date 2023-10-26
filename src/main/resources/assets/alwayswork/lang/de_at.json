@@ -1,0 +1,62 @@
+{
+  "block.alwayswork.mithril_ore": "Mithril-Erzn",
+  "block.alwayswork.infernite_ore": "Infernite-Erzn",
+  "block.alwayswork.enderald_ore": "Enderald-Erzn",
+  "block.alwayswork.vibranium_ore": "Vibranium-Erzn",
+
+  "item.alwayswork.raw_mithril": "Rohes Mithril",
+  "item.alwayswork.raw_infernite": "Rohes Infernite",
+  "item.alwayswork.raw_vibranium": "Rohes Vibranium",
+
+  "item.alwayswork.mithril_ingot": "Mithril-Barren",
+  "block.alwayswork.enderald": "Enderald",
+  "item.alwayswork.infernite_ingot": "Infernite-Barren",
+  "item.alwayswork.vibranium_ingot": "Vibranium-Barren",
+
+  "item.alwayswork.mithril_helmet": "Mithril-Hauberl",
+  "item.alwayswork.mithril_chestplate": "Mithril-Wams",
+  "item.alwayswork.mithril_leggings": "Mithril-Hosn",
+  "item.alwayswork.mithril_boots": "Mithril-Schuach",
+
+  "item.alwayswork.infernite_helmet": "Infernite-Hauberl",
+  "item.alwayswork.infernite_chestplate": "Infernite-Wams",
+  "item.alwayswork.infernite_leggings": "Infernite-Hosn",
+  "item.alwayswork.infernite_boots": "Infernite-Schuach",
+
+  "item.alwayswork.enderald_helmet": "Enderald-Hauberl",
+  "item.alwayswork.enderald_chestplate": "Enderald-Wams",
+  "item.alwayswork.enderald_leggings": "Enderald-Hosn",
+  "item.alwayswork.enderald_boots": "Enderald-Schuach",
+
+  "item.alwayswork.vibranium_helmet": "Vibranium-Hauberl",
+  "item.alwayswork.vibranium_chestplate": "Vibranium-Wams",
+  "item.alwayswork.vibranium_leggings": "Vibranium-Hosn",
+  "item.alwayswork.vibranium_boots": "Vibranium-Schuach",
+
+  "item.alwayswork.mithril_axe": "Mithril-Hackl",
+  "item.alwayswork.mithril_hoe": "Mithril-Haue",
+  "item.alwayswork.mithril_pickaxe": "Mithril-Grabhackn",
+  "item.alwayswork.mithril_shovel": "Mithril-Schupfn",
+  "item.alwayswork.mithril_sword": "Mithril-Schwert",
+
+  "item.alwayswork.infernite_axe": "Infernite-Hackl",
+  "item.alwayswork.infernite_hoe": "Infernite-Haue",
+  "item.alwayswork.infernite_pickaxe": "Infernite-Grabhackn",
+  "item.alwayswork.infernite_shovel": "Infernite-Schupfn",
+  "item.alwayswork.infernite_sword": "Infernite-Schwert",
+
+  "item.alwayswork.enderald": "Enderald",
+  "item.alwayswork.enderald_axe": "Enderald-Hackl",
+  "item.alwayswork.enderald_hoe": "Enderald-Haue",
+  "item.alwayswork.enderald_pickaxe": "Enderald-Grabhackn",
+  "item.alwayswork.enderald_shovel": "Enderald-Schupfn",
+  "item.alwayswork.enderald_sword": "Enderald-Schwert",
+
+  "item.alwayswork.vibranium_axe": "Vibranium-Hackl",
+  "item.alwayswork.vibranium_hoe": "Vibranium-Haue",
+  "item.alwayswork.vibranium_pickaxe": "Vibranium-Grabhackn",
+  "item.alwayswork.vibranium_shovel": "Vibranium-Schupfn",
+  "item.alwayswork.vibranium_sword": "Vibranium-Schwert",
+
+  "itemgroup.new_stuff": "Neiche Sachen"
+}
